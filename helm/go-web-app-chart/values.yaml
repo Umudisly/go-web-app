@@ -8,7 +8,7 @@ image:
   repository: umudisly/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "15618751332"
+  tag: "15642752084"
 
 ingress:
   enabled: false
